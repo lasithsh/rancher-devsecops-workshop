@@ -32,7 +32,7 @@ Once our Cluster Group is created, we then need to define a Git Repo for Fleet.
 
 #### 4. Configure Git Repo
 
-Before we ahead for configuring the Git Repo, we need to Git Repository URL.
+Before we go ahead for configuring the Git Repo, we need to Git Repository URL.
 
 Follow the instruction below to get to Git Repository URL.
 
